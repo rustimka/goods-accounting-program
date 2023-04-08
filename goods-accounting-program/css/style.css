@@ -1,0 +1,14 @@
+@media (max-width: 991.98px) {
+    a.nav-link {
+        padding: .5rem 0;
+        text-align: center;
+    }
+}
+.editbuttoncell button {
+    opacity: 0.5;
+}
+tr:hover td.editbuttoncell button {
+    opacity: 1;
+}
+
+
